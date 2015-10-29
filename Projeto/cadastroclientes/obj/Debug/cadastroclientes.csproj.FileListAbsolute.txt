@@ -1,0 +1,15 @@
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\cadastroclientes.exe.config
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\cadastroclientes.exe
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\cadastroclientes.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\BLL.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\DAL.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\DTO.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\BLL.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\DAL.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\bin\Debug\DTO.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.frmCadastroCliente.resources
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.exe
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastroclientes\obj\Debug\cadastroclientes.pdb

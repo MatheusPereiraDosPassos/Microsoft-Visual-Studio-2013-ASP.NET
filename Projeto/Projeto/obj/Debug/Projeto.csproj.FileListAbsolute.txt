@@ -1,0 +1,12 @@
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\Projeto.dll.config
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\Projeto.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\Projeto.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\BLL.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\DTO.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\DAL.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\BLL.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\DTO.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\bin\DAL.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Matthew\Desktop\Empresa\Projeto\Projeto\obj\Debug\Projeto.pdb

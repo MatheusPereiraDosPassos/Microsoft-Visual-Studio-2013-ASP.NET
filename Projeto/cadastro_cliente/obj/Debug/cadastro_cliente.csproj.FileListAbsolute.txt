@@ -1,0 +1,9 @@
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\bin\Debug\cadastro_cliente.exe.config
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\bin\Debug\cadastro_cliente.exe
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\bin\Debug\cadastro_cliente.pdb
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.Form1.resources
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.exe
+C:\Users\Matthew\Desktop\Empresa\Projeto\cadastro_cliente\obj\Debug\cadastro_cliente.pdb
